@@ -1,0 +1,1 @@
+gsettings set org.gnome.shell favorite-apps "['chromium-browser.desktop', 'jetbrains-idea.desktop', 'org.gnome.Nautilus.desktop', 'sublime_text.desktop', 'shutter.desktop', 'skypeforlinux.desktop', 'org.gnome.Terminal.desktop', 'viber.desktop']"
