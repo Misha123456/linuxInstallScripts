@@ -1,5 +1,6 @@
 . ./installGoogle.sh
-. ./installTweaks.sh
 . ./installViber.sh
 . ./installShutter.sh
+. ./installHandbrake.sh
+. ./installSimpleScreenRecorder.sh
 

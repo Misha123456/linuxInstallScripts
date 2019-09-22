@@ -5,5 +5,3 @@ sudo apt-get update
 . ./settings.sh
 
 . ./installUtilites.sh
-
-. ./installNVidiaDriver.sh
