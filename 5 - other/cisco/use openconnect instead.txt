@@ -1,0 +1,6 @@
+Install openconnect:
+https://onstartup.ru/set/openconnect/
+https://askubuntu.com/questions/815145/ubuntu-16-04-openconnect-cisco-vpn-failed-to-obtain-webvpn-cookie
+
+Obtain token:
+sudo openconnect --csd-user=mikhail --csd-wrapper=/home/mikhail/.cisco/csd-wrapper.sh vpn.fairisaac.com 
