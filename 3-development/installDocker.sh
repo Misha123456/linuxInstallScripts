@@ -1,4 +1,4 @@
-username=mikhail
+username=$USER
 
 # installing docker
 sudo apt install docker.io -y
